@@ -1,0 +1,11 @@
+{
+  "name": "ddor",
+  "version": "1.0.0",
+  "author": "laurent loukopoulos <loukopoulos@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "web-client"
+  ]
+}
